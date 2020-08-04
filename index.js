@@ -4,7 +4,7 @@ array.forEach((element, index) => {
 })
 }
 
-function iterate(callback) {
+function iterate(livingThings) {
   const livingThings = ['cats', 'dogs', 'people', 'plants'];
   livingThings.forEach((element) => {
     console.log(livingThings)
