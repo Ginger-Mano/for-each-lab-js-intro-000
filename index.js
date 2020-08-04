@@ -9,3 +9,7 @@ function iterate(callback) {
   livingThings.forEach(callback)
     return livingThings
 }
+
+function doToArray(array, callback) {
+  array.forEach(callback)
+}
