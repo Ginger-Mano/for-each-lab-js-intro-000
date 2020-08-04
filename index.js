@@ -8,5 +8,4 @@ function iterate(callback) {
   const livingThings = ['cats', 'dogs', 'people', 'plants']
   livingThings.forEach(callback)
     return livingThings
-  })
 }
