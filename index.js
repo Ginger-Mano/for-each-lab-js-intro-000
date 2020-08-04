@@ -4,9 +4,9 @@ array.forEach((element, index) => {
 })
 }
 
-function iterate(livingThings) {
+function iterate(callback) {
   const livingThings = ['cats', 'dogs', 'people', 'plants'];
-  livingThings.forEach((element) => {
-    console.log(livingThings)
+  livingThings.forEach((callback)
+    return livingThings
   })
 }
